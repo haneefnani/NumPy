@@ -4,7 +4,7 @@
 - Website: https://www.numpy.org
 - Documentation: https://docs.scipy.org/
 
-<h3>It provides: </h3>
+<h3>It provides:  </h3>
 
 - a powerful N-dimensional array object
 - sophisticated (broadcasting) functions
